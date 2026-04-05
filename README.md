@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MikeUI — Visual UI Builder
 
 A production-ready web-based UI builder that generates clean, scalable frontend code. Conceptually aligned with Webflow and Figma, using a component-driven architecture.
@@ -63,3 +64,7 @@ src/
 | Shadow | 0 10px 30px rgba(0,0,0,0.08) |
 | Primary color | #0071E3 |
 | Background | #F5F5F7 |
+=======
+# MikeUI
+MikeUI is a web-based UI builder that enables designers and developers to create responsive, production-ready interfaces for desktop, tablet, and mobile. It features drag-and-drop components, precise styling, real-time previews, templates, and an intuitive workspace for efficient, professional design workflows.
+>>>>>>> b5e389554d7d353dad9867e803e2db237d631a77
